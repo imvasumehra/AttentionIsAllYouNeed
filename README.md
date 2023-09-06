@@ -6,7 +6,7 @@
 pip install -r requirements.txt
 ```
 
-#### Please download the weight from my [Google Drive](https://drive.google.com/drive/folders/18lpTIzkoaGOEQsVci2sZI2-eRHIudNVd?usp=sharing).
+#### Please download the weight from my [Google Drive](https://drive.google.com/drive/folders/18lpTIzkoaGOEQsVci2sZI2-eRHIudNVd?usp=sharing). Make sure to download this weight in ```weights``` folder and place it in the parent directory.
 
 #### Run the inference.ipynb file to see the translation in action.
 
